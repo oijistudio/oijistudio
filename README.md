@@ -1,4 +1,4 @@
-OijiStudio<div align="center">
+oijistudio<div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    HERO BANNER                            -->
@@ -416,13 +416,13 @@ Discovery ──► Consultation ──► Planning ──► Design ──► D
 
 ## 📊 GitHub Analytics
 
-> ⚙️ **Setup required:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with the actual GitHub username before publishing.
+> ⚙️ **Setup required:** Replace `oijistudio` in the URLs below with the actual GitHub username before publishing.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F1020&title_color=8B5CF6&icon_color=A78BFA&text_color=EDE9FE&count_private=true" alt="OIJI Studio GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&bg_color=0F1020&title_color=8B5CF6&text_color=EDE9FE&layout=compact" alt="OIJI Studio Top Languages"/>
+<a href="https://github.com/oijistudio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oijistudio&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0F1020&title_color=8B5CF6&icon_color=A78BFA&text_color=EDE9FE&count_private=true" alt="OIJI Studio GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oijistudio&theme=midnight-purple&hide_border=true&bg_color=0F1020&title_color=8B5CF6&text_color=EDE9FE&layout=compact" alt="OIJI Studio Top Languages"/>
 </a>
 
 <br/><br/>
@@ -431,8 +431,8 @@ Discovery ──► Consultation ──► Planning ──► Design ──► D
 <!--                    STREAK STATS                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true&background=0F1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=EDE9FE&sideLabels=A78BFA&dates=EDE9FE&stroke=8B5CF6" alt="OIJI Studio GitHub Streak"/>
+<a href="https://github.com/oijistudio">
+  <img src="https://streak-stats.demolab.com?user=oijistudio&theme=midnight-purple&hide_border=true&background=0F1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=EDE9FE&sideLabels=A78BFA&dates=EDE9FE&stroke=8B5CF6" alt="OIJI Studio GitHub Streak"/>
 </a>
 
 </div>
@@ -445,8 +445,8 @@ Discovery ──► Consultation ──► Planning ──► Design ──► D
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="OIJI Studio GitHub Trophies"/>
+<a href="https://github.com/oijistudio">
+  <img src="https://github-profile-trophy.vercel.app/?username=oijistudio&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="OIJI Studio GitHub Trophies"/>
 </a>
 
 </div>
@@ -457,8 +457,8 @@ Discovery ──► Consultation ──► Planning ──► Design ──► D
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0F1020&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&area_color=5B21B6&hide_border=true" alt="OIJI Studio Activity Graph" width="100%"/>
+<a href="https://github.com/oijistudio">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oijistudio&theme=react-dark&bg_color=0F1020&color=A78BFA&line=7C3AED&point=8B5CF6&area=true&area_color=5B21B6&hide_border=true" alt="OIJI Studio Activity Graph" width="100%"/>
 </a>
 
 </div>
@@ -471,9 +471,9 @@ Discovery ──► Consultation ──► Planning ──► Design ──► D
 
 <!-- Snake animation auto-generated via GitHub Actions — see workflow file below -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="OIJI Studio Contribution Snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oijistudio/oijistudio/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oijistudio/oijistudio/output/github-contribution-grid-snake.svg" />
+  <img alt="OIJI Studio Contribution Snake" src="https://raw.githubusercontent.com/oijistudio/oijistudio/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 > 🔧 **Snake animation requires the GitHub Actions workflow file** — see `.github/workflows/snake.yml` setup at the bottom of this document.
@@ -631,7 +631,7 @@ jobs:
 1. Create `.github/workflows/snake.yml` with the content above.
 2. Run the workflow manually once from the **Actions** tab to generate the initial animation.
 3. The snake SVGs are pushed to the `output` branch automatically.
-4. Replace `YOUR_GITHUB_USERNAME` in the README snake image URLs with your actual GitHub username.
+4. Replace `oijistudio` in the README snake image URLs with your actual GitHub username.
 
 </details>
 
@@ -645,7 +645,7 @@ jobs:
 <summary><strong>📋 README Setup Checklist — Before Publishing</strong></summary>
 <br/>
 
-Replace all instances of `YOUR_GITHUB_USERNAME` with the actual GitHub username:
+Replace all instances of `oijistudio` with the actual GitHub username:
 
 - [ ] GitHub Stats card URL
 - [ ] Top Languages card URL
